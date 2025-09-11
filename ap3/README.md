@@ -16,7 +16,7 @@ L'AP doit être terminée avant les vacances de Noël. Cependant, il n'y a que 9
 
 L'ensemble des livrables doit être déposé sur le dépôt GitHub de l'équipe.
 
-- [Lien d'invit pour les dépôts de rendus GitHub](https://classroom.github.com/a/v1L6o4R7)
+- [Lien d'invit pour les dépôts de rendus GitHub](https://classroom.github.com/a/kfQuFJGI)
 
 Voici les livrables attendus :
 
