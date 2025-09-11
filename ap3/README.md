@@ -22,6 +22,7 @@ Voici les livrables attendus :
 
 - Code source de l'application mobile, avec ressources complètes (images, icônes, etc.)
 - Fichier README.md à la racine du dépôt, contenant les informations qui suivent, ou des liens vers ces informations
+- Procédure d'exécution de l'app mobile, pour test
 - « Journal de bord » semaine par semaine
 - Détail des apports de chaque membre de l'équipe
 - Description des fonctionnalités implémentées ; **priorisez les fonctionnalités demandées** et documentez également ce que vous ajoutez éventuellement
