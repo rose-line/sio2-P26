@@ -6,7 +6,7 @@ ALL4SPORT souhaite la mise en production d'une application mobile interne pour l
 
 Un ensemble de fonctionnalités ont été préalablement identifiées avec le client ALL4SPORT. Elles ont été regroupées en modules pour faciliter le partitionnement du développement de l'application mobile. Une priorisation globale des modules a également été définie en accord avec le client.
 
-Les spécifications des modules et leur priorité seront cependant sujets à de potentielles modifications en fonction des retours du client au cours de l'avancement du projet. Le client n'exclue pas non plus la possibilité de découvrir et d'ajouter de nouveaux modules en fonction des retours des responsables-entrepôt et des caristes qui vont tester les _beta-releases_ de l'application. Une méthodologie agile sera donc de mise pour gérer ces évolutions potentielles.
+Les spécifications des modules et leur priorité seront cependant sujets à de potentielles modifications en fonction des retours du client au cours de l'avancement du projet. Le client n'exclut pas non plus la possibilité de découvrir et d'ajouter de nouveaux modules en fonction des retours des responsables-entrepôt et des caristes qui vont tester les _beta-releases_ de l'application. Une méthodologie agile sera donc de mise pour gérer ces évolutions potentielles.
 
 NB : les priorités sont ordonnées de 1 à 3, 1 étant la priorité la plus élevée.
 
@@ -72,7 +72,6 @@ L'application doit être capable de fonctionner en mode déconnecté, c'est-à-d
 
 - L'application doit être ergonomique et intuitive pour les caristes, qui ne sont pas nécessairement des utilisateurs experts en informatique.
 - L'application doit être réactive et rapide, pour permettre aux caristes de travailler efficacement.
-
 - L'application doit être sécurisée, pour garantir la confidentialité des données des clients de ALL4SPORT.
 - L'application doit être maintenable, pour permettre d'ajouter de nouveaux modules ou de corriger des bugs facilement.
 - L'application doit être testable, pour garantir la qualité du logiciel avant sa mise en production.
