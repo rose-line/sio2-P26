@@ -3,9 +3,16 @@
 ## Bloc 2 SLAM
 
 - Flutter & Dart
+
   - [Intro Dart & Flutter](b2/flutter_01_dart.pdf)
+
   - [Installation Flutter](b2/flutter_02_install.pdf)
+
   - [Widgets, navigation, packages](b2/flutter_03_app.pdf)
+
+  - [Accéder à une API Web publique](b2/flutter_04_public_web_api.pdf)
+
+  - [ListView](b2/flutter_05_listview.pdf)
 
 ## Atelier Professionnel SLAM
 
