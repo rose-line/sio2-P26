@@ -14,6 +14,10 @@
 
   - [ListView](b2/flutter_05_listview.pdf)
 
+## Bloc 3 Cyber
+
+- [Sujet EDC ERNE Octobre](b3/edc202510-GSIC-ERNE.pdf)
+
 ## Atelier Professionnel SLAM
 
 ### AP3 - Programmation Mobile
