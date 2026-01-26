@@ -22,6 +22,8 @@
 
 - [Sujet EDC ERNE Octobre](b3/edc202510-GSIC-ERNE.pdf)
 
+- [Cours XSS](b3/cours/02-xss.html)
+
 ## Atelier Professionnel SLAM
 
 ### AP3 - Programmation Mobile
