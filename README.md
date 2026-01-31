@@ -20,9 +20,11 @@
 
 ## Bloc 3 Cyber
 
-- [Sujet EDC ERNE Octobre](b3/edc202510-GSIC-ERNE.pdf)
+- EDC Cas ERNE
 
 - [Cours XSS](b3/cours/02_xss.html)
+
+- [Cours CSRF](b3/cours/04_csrf.html)
 
 ## Atelier Professionnel SLAM
 
