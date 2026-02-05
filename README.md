@@ -14,9 +14,13 @@
 
   - [ListView](b2/flutter_05_listview.pdf)
 
-- TP OOP - Gestion d'hôtel
+- OOP - TP Gestion d'hôtel
 
   - [lien GHC](https://classroom.github.com/a/vnDowlKL)
+
+- OOP Héritage et Polymorphisme - TP Bestioles
+
+  - [lien GHC](https://classroom.github.com/a/ReCz4wcp)
 
 ## Bloc 3 Cyber
 
