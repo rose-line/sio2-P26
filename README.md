@@ -30,7 +30,7 @@
 
 - [Cours CSRF](b3/cours/04_csrf.html)
 
-- [EDC Cas EXPLORERS](b3/edc_EXPLORERS.pdf)
+- [EDC Cas EXPLORERS](b3/edc-EXPLORERS.pdf)
 
 ## Atelier Professionnel SLAM
 
