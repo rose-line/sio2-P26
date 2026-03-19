@@ -22,6 +22,10 @@
 
   - [lien GHC](https://classroom.github.com/a/ReCz4wcp)
 
+- TP « Lecteur de formes »
+
+  - [lien GHC](https://classroom.github.com/a/-XldVOlY)
+
 ## Bloc 3 Cyber
 
 - EDC Cas ERNE
