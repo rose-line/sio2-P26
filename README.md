@@ -36,6 +36,10 @@
 
 - [EDC Cas EXPLORERS](b3/edc-EXPLORERS.pdf)
 
+- TP « OWASP Top 10:2025:A07 Authentification Failures »
+
+  - [lien GHC](https://classroom.github.com/a/kuUHxFYC)
+
 ## Atelier Professionnel SLAM
 
 ### AP3 - Programmation Mobile
