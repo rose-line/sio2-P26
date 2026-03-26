@@ -36,9 +36,13 @@
 
 - [EDC Cas EXPLORERS](b3/edc-EXPLORERS.pdf)
 
-- TP « OWASP Top 10:2025:A07 Authentification Failures »
+- TP « OWASP Top 10:2025:A07 _Authentification Failures_ »
 
   - [lien GHC](https://classroom.github.com/a/kuUHxFYC)
+
+- TP « OWASP Top 10:2025:A01 _Broken Access Control_ - SSRF »
+
+  - [lien GHC](https://classroom.github.com/a/h_sADGXh)
 
 ## Atelier Professionnel SLAM
 
